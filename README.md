@@ -18,6 +18,7 @@ Create a simple table using ```<table>``` tag in html.
 Add header row using ```<th>``` tag.
 
 ### STEP 5
+
 Add your timetable using ```<td>``` tag.
 
 ### STEP 6
@@ -124,7 +125,7 @@ Execute the program using runserver command.
 ```
 
 ## OUTPUT
-![Alt text](web1.png)
+![Screenshot 2023-10-19 160850](https://github.com/divz2711/slot/assets/121245222/21095299-afa4-4ba5-84cb-672a8a644164)
 
 
 
